@@ -1,0 +1,15 @@
+{
+    "title": "Test Ambassadors Pages data 3",
+    "baseURL": "https:\/\/eeer.dfd.ert",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "dfd.ert"
+    }
+}
